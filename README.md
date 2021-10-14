@@ -102,7 +102,7 @@ S=u*t/2 = 0.034 * t/2=0.017*t
   // Displays the distance on the Serial Monitor
 
   Serial.print("Distance: ");
-'''
+```
 
 
 ### Πηγές
@@ -124,7 +124,8 @@ https://www.arduino.cc/en/Tutorial/LibraryExamples/HelloWorld#see-also
 Contactless Temperature Sensor MLX90614 © GPL3+
 <img src="images/image12.png" alt="chassis" width="500"/>
 
-'''
+```
+
 /* This code works with MLX90614 (GY906) 
 
  * It measures both ambient and object temperature in Celsius and display it on the Serial Monitor. The operation starts when an object identified using ultrasonic sensor HC-SR04
@@ -222,7 +223,8 @@ while (waitsomeone){
  //delay(3000);
 
 }
-'''
+
+```
 ###
 Πηγή
 https://create.arduino.cc/projecthub/SurtrTech/contactless-temperature-sensor-mlx90614-1e7bc7
@@ -240,10 +242,13 @@ https://create.arduino.cc/projecthub/SurtrTech/measure-heart-rate-and-spo2-with-
 Στα κυκλώματά μας θα χρειαστεί πολλές φορές να χρησιμοποιήσουμε κουμπιά, ώστε να μπορούμε να παρέμβουμε στο κύκλωμα όταν εμείς το θέλουμε, π.χ. για να δώσουμε ρεύμα σε ένα τμήμα του ή να διακόψουμε την τροφοδότηση με ρεύμα ενός άλλου τμήματος.
 
 Στα σχήματα που ακολουθούν μπορείτε να δείτε δύο κυκλώματα με κουμπιά. Το ένα αφήνει το ρεύμα να περνάει όταν πατηθεί το κουμπί (δηλαδή είναι πάντα στο LOW το input pin κι όταν πατηθεί το πλήκτρο γίνεται HIGH) – αυτό ονομάζεται pull-down resistor. Το άλλο διακόπτει τη ροή του ρεύματος όταν πατηθεί (δηλαδή είναι πάντα στο HIGH το input pin κι όταν πατηθεί το πλήκτρο γίνεται LOW – αυτό ονομάζεται pull-up resistor. Υπάρχει ένας κανόνας που λέει ότι το ρεύμα θα ακολουθήσει τη διαδρομή με τη μικρότερη αντίσταση. Το κουμπί έχει μια μικρή εσωτερική αντίσταση μέσα του. Έτσι, στο κύκλωμα της εικόνας pull-up όταν πατηθεί το κουμπί και κλείσει το κύκλωμα, έχουμε ροή από τα 5V προς τη γείωση (μικρότερη αντίσταση), οπότε διακοπή του αρχικού κυκλώματος (5V – Input). Στο κύκλωμα της εικόνας pull-down, όταν πατηθεί το κουμπί, τότε έχουμε ροή από την πηγή προς την είσοδο (μικρότερη αντίσταση), δηλαδή ενεργοποίηση του κυκλώματος (5V – Input). Ανάλογα λοιπόν τί θέλουμε να κάνουμε στα κυκλώματά μας, ακολουθούμε την αντίστοιχη συνδεσμολογία.
-<img src="images/image5.png" alt="chassis" width="400"/>
+
+<img src="images/image11.png" alt="chassis" width="400"/>
+
  Εικόνα  – Pull-down resistor
  
-<img src="images/image11.png" alt="chassis" width="400"/>
+<img src="images/image5.png" alt="chassis" width="400"/>
+
  Εικόνα  – Pull-up resistor
 
 ## Πηγή
