@@ -27,11 +27,12 @@
 
 Θύρες Εισόδου - Εξόδου
 το Arduino Uno R3 διαθέτει 14 ψηφιακές εισόδους/εξόδους και 6 αναλογικές εισόδους (Pins)
-	                                    Είσοδος Έξοδος
-Υποσύστημα Αντισηπτικού 									1		  1
-Υποσύστημα Κίνησης				              	1	  	4
-Υποσύστημα Ιατρικών Μετρήσεων	          	2 		2 
-Υποσύστημα Αναγνώρισης ανθρώπου		        4	  	2
+	                                    Είσοδος		Έξοδος
+					    
+1. Υποσύστημα Αντισηπτικού 			1	 	1
+2. Υποσύστημα Κίνησης			        1		4
+3. Υποσύστημα Ιατρικών Μετρήσεων	       	2 		2 
+4. Υποσύστημα Αναγνώρισης ανθρώπου		4	  	2
 
 
 
@@ -213,12 +214,9 @@ while (waitsomeone){
 
 }
 
-## Πηγή: https://create.arduino.cc/projecthub/SurtrTech/contactless-temperature-sensor-mlx90614-1e7bc7
-
-
-
-
-
+###
+Πηγή
+https://create.arduino.cc/projecthub/SurtrTech/contactless-temperature-sensor-mlx90614-1e7bc7
 
 
 ## Measure Heart Rate and SpO2 with MAX30102
