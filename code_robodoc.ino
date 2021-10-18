@@ -57,19 +57,19 @@ void loop() {
     nextguestion("Do you have", "cough?", "", "");
     waituserchoice();
     if (buttonStateY == HIGH) { //have cough
-      nextguestion("Are you feel", "tired?", "", "");
+      nextguestion("Are you feeling", "tired?", "", "");
       waituserchoice();
       tired (); 
     }
     else { //don't have cough
-      nextguestion("Are you feel", "tired?", "", "");
+      nextguestion("Are you feelling", "tired?", "", "");
       waituserchoice();
       if (buttonStateY == HIGH) { //tired
-        nextguestion("Are you feel", "sore throat?", "", "");
+        nextguestion("Do you feel", "a sore throat?", "", "");
         waituserchoice(); 
         sorethroat1(); }
        else { //not tired
-        nextguestion("Are you feel", "sore throat?", "", "");
+        nextguestion("Do you feel", "a sore throat?", "", "");
         waituserchoice(); 
         sorethroat2();
       }}}}
@@ -190,7 +190,7 @@ void cough(){
          digitalWrite(redPin, HIGH); 
        }
     else {
-    nextguestion("Do you have", "sore throat?", "", "");
+    nextguestion("Do you have", "a sore throat?", "", "");
     waituserchoice();
     if (buttonStateY == HIGH) {
          giveanswer("You should look", "for medical", "assistance!"); 
@@ -252,7 +252,7 @@ void tired (){
      giveanswer("You should look", "for medical", "assistance!");  
      digitalWrite(redPin, HIGH); }
   else {
-     nextguestion("Do you feel", "sore throat?", "", "");
+     nextguestion("Do you feel", "a sore throat?", "", "");
      waituserchoice();
      sorethroat1();
   }
