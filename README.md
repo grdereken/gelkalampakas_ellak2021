@@ -309,7 +309,7 @@ http://users.sch.gr/manpoul/docs/arduino/ProgrammingArduino.pdf
 
 <img src="images/robodoc6.jpg" alt="robodoc6" width="800"/>
 
-<figure class="video_container">
+<figure class="video_container" poster="images/robodoc6.jpg">
   <video controls="true" allowfullscreen="true">
     <source src="robodoc2.mp4" type="video/mp4">
    </video>
