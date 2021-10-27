@@ -307,9 +307,11 @@ http://users.sch.gr/manpoul/docs/arduino/ProgrammingArduino.pdf
 
 <img src="images/robodoc2.jpg" alt="robodoc3" width="800"/>
 
-<img src="images/robodoc5.jpg" alt="robodoc5" width="800"/>
+<video width="320" height="240" controls>
+  <source src="robodoc2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
 
-<img src="images/robodoc6.jpg" alt="robodoc6" width="800"/>
 
 ## Τελικός κώδικας
 
