@@ -319,6 +319,8 @@ http://users.sch.gr/manpoul/docs/arduino/ProgrammingArduino.pdf
 </figure>
 <!-- blank line -->
 
+[![Watch the video](images/robodoc6.jpg)](https://youtu.be/C7_fVlZjOaE)
+
 
 ## Τελικός κώδικας
 
