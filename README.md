@@ -312,15 +312,10 @@ http://users.sch.gr/manpoul/docs/arduino/ProgrammingArduino.pdf
 ## Βίντεο
 
 <!-- blank line -->
-<figure class="video_container" poster="images/robodoc6.jpg">
-  <video controls="true" allowfullscreen="true">
-    <source src="robodoc2.mp4" type="video/mp4">
-   </video>
+<figure class="video_container">
+  <iframe src="https://youtu.be/C7_fVlZjOaE" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
-
-[![Watch the video](images/robodoc6.jpg)](https://youtu.be/C7_fVlZjOaE)
-
 
 ## Τελικός κώδικας
 
