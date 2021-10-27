@@ -308,7 +308,7 @@ http://users.sch.gr/manpoul/docs/arduino/ProgrammingArduino.pdf
 <img src="images/robodoc2.jpg" alt="robodoc3" width="800"/>
 
 <video width="320" height="240" controls>
-  <source src="robodoc2.mp4" type="video/mp4">
+  <source src="../robodoc2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
 
