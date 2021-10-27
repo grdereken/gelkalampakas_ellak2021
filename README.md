@@ -311,7 +311,7 @@ http://users.sch.gr/manpoul/docs/arduino/ProgrammingArduino.pdf
 
 ## Βίντεο
 
-[![Robodoc](images/robodoc6.jpg)](https://youtu.be/C7_fVlZjOaE)
+[![Robodoc](images/robodoc6.jpg width="400")](https://youtu.be/C7_fVlZjOaE)
 
 ## Τελικός κώδικας
 
