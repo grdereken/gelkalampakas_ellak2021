@@ -305,11 +305,11 @@ http://users.sch.gr/manpoul/docs/arduino/ProgrammingArduino.pdf
 
 <img src="images/robodoc1.jpg" alt="robodoc1" width="800"/>
 
-<img src="images/robodoc2.jpg" alt="robodoc2" width="800"/>
+<img src="images/robodoc3.jpg" alt="robodoc3" width="800"/>
 
-<img src="images/robodoc3.jpg" alt="robodoc3" width="800"/><img src="images/robodoc2.jpg" alt="robodoc2" width="800"/>
+<img src="images/robodoc5.jpg" alt="robodoc5" width="800"/>
 
-<img src="images/robodoc4.jpg" alt="robodoc4" width="800"/>
+<img src="images/robodoc5.jpg" alt="robodoc5" width="800"/>
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true">
