@@ -301,7 +301,7 @@ http://users.sch.gr/manpoul/docs/arduino/ProgrammingArduino.pdf
 
 <img src="images/ellak2021.png" alt="ellak2021" width="800"/>
 
-## Φωτογραφίες - Βίντεο
+## Φωτογραφίες
 
 <img src="images/robodoc1.jpg" alt="robodoc1" width="800"/>
 
@@ -309,11 +309,16 @@ http://users.sch.gr/manpoul/docs/arduino/ProgrammingArduino.pdf
 
 <img src="images/robodoc6.jpg" alt="robodoc6" width="800"/>
 
+## Βίντεο
+
+<!-- blank line -->
 <figure class="video_container" poster="images/robodoc6.jpg">
   <video controls="true" allowfullscreen="true">
     <source src="robodoc2.mp4" type="video/mp4">
    </video>
 </figure>
+<!-- blank line -->
+
 
 ## Τελικός κώδικας
 
