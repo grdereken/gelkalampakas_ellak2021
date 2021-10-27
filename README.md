@@ -307,11 +307,9 @@ http://users.sch.gr/manpoul/docs/arduino/ProgrammingArduino.pdf
 
 <img src="images/robodoc3.jpg" alt="robodoc3" width="800"/>
 
-<img src="images/robodoc6.jpg" alt="robodoc6" width="800"/>
-
 ## Βίντεο
 
-[![Robodoc](images/robodoc6.jpg width="400")](https://youtu.be/C7_fVlZjOaE)
+<a href="https://youtu.be/C7_fVlZjOaE"> <img src="images/robodoc6.jpg" alt="robodoc6" width="800"/></a>
 
 ## Τελικός κώδικας
 
